@@ -2,9 +2,14 @@
     "version":  "6.10.1",
     "license":  "",
     "extract_dir":  "",
-    "url":  "http://download.ydstatic.com/notewebsite/downloads/YNote.exe",
+    "url":  "http://download.ydstatic.com/notewebsite/downloads/YNote.exe#/dl.7z",
     "depends":  "",
-    "homepage":  "",
+    "homepage":  "http://note.youdao.com/download.html?auto=1#win",
     "hash":  "",
-    "bin":  ""
+    "bin":  "",
+    "shortcuts": [
+        [
+            "YoudaoNote.exe"
+        ]
+    ],
 }
