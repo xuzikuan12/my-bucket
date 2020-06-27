@@ -13,5 +13,5 @@
             "有道云笔记"
         ]
     ],
-    "note": "We don't persist your WeChat data, they are still storaged in '%LOCALAPPDATA%\\YNote'."
+    "notes": "We don't persist your WeChat data, they are still storaged in '%LOCALAPPDATA%\\YNote'."
 }
