@@ -9,7 +9,9 @@
     "bin":  "",
     "shortcuts": [
         [
-            "YoudaoNote.exe"
+            "YoudaoNote.exe",
+            "有道云笔记"
         ]
     ],
+    "note": "We don't persist your WeChat data, they are still storaged in '%LOCALAPPDATA%\\YNote'."
 }
