@@ -5,7 +5,7 @@
     "url": "http://download.ydstatic.com/notewebsite/downloads/YNote.exe#/dl.7z",
     "hash": "",
     "depends": "",
-    "homepage": "http://note.youdao.com/download.html ",
+    "homepage": "http://note.youdao.com/index.html ",
     "bin": "YoudaoNote.exe",
     "shortcuts": [
         [
