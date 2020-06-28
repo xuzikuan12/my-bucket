@@ -17,7 +17,7 @@ scoop bucket add [you_name_it] https://gitee.com/xuzikuan12/my-bucket
 Install apps from this bucket with below command:
 
 ``` powershell
-scoop install [you_has_named_it]/<app_name>
+scoop install [you_has_named_it]/[app_name]
 ```
 
 **2. I want some other apps!**
