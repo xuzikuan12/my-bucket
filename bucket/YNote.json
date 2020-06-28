@@ -14,7 +14,7 @@
             "有道云笔记"
         ]
     ],
-    "notes": "We don't persist your WeChat data, they are still storaged in '%LOCALAPPDATA%\\YNote'.",
+    "notes": "We don't persist your YoudaoNote data, they are still storaged in '%LOCALAPPDATA%\\YNote'.",
     "checkver": {
         "url": "http://note.youdao.com/update/updateConfig.json",
         "jp": "$.PC.version"
